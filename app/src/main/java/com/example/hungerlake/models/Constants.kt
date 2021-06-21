@@ -1,0 +1,7 @@
+package com.example.hungerlake.models
+
+object Constants {
+    const val CLIENT_ID = "YOEARIMYVECQDJGGLUGWGRSO03SNAPCZY5BHV3FAU13XRHMU"
+    const val CLIENT_SECRET = "W2YAIZ1WHXKHOZ2NPWJ5XQSEJFYV0ZPRUS3SDFTRMXFNQQ2S"
+    const val API_VERSION = "20180323"
+}
